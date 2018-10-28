@@ -1,2 +1,2 @@
-# Day3
-Extend your 'About Me' and guessing game
+# day3
+These are corrections to Lab 2 and Lab 3
